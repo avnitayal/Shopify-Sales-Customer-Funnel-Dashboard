@@ -47,9 +47,9 @@ To help e-commerce businesses understand:
 
 ---
 
-## 📎 Live Demo (Optional)
-- [Snapshot Report](https://github.com/avnitayal/Shopify-Sales-Customer-Funnel-Dashboard/blob/main/Snapshot%20of%20Report.jpg)  
-- [Snapshot Details:](https://github.com/avnitayal/Shopify-Sales-Customer-Funnel-Dashboard/blob/main/Snapshot%20of%20Details.jpg)  
+## 📎 Snapshots
+- [Report](https://github.com/avnitayal/Shopify-Sales-Customer-Funnel-Dashboard/blob/main/Snapshot%20of%20Report.jpg)  
+- [Details:](https://github.com/avnitayal/Shopify-Sales-Customer-Funnel-Dashboard/blob/main/Snapshot%20of%20Details.jpg)  
 
 ---
 
