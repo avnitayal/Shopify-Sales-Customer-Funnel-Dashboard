@@ -48,8 +48,8 @@ To help e-commerce businesses understand:
 ---
 
 ## 📎 Live Demo (Optional)
-- [Power BI Service Link](add-your-link-here)  
-- [PDF Export](add-your-pdf-link-here)  
+- [Snapshot Report](https://github.com/avnitayal/Shopify-Sales-Customer-Funnel-Dashboard/blob/main/Snapshot%20of%20Report.jpg)  
+- [Snapshot Details:]()  
 
 ---
 
